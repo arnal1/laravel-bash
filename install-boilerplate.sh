@@ -7,3 +7,5 @@ composer install
 php artisan storage:link
 
 composer require sven/artisan-view --dev
+
+composer require laravelcollective/html
